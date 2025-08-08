@@ -38,8 +38,7 @@ README.md -> Proje açıklaması
 ## ⚙️ Kurulum ve Çalıştırma
 
 ### 1️⃣ Flask API’yi başlat
-```bash
-cd api
+
 python api.py
 2️⃣ Flutter uygulamasında API adresini güncelle
 lib/girisim_onerisi.dart dosyasında:
@@ -79,16 +78,8 @@ Yanıt
 
 3 → Opioid grubu analjezikler
 
-🖼 Ekran Görüntüleri
-Buraya uygulama ekran görüntülerini ekleyebilirsiniz:
-
-
-![Ana Sayfa](assets/screenshot_home.png)
-![Sonuç Sayfası](assets/screenshot_result.png)
-📜 Lisans
-Bu proje MIT lisansı ile lisanslanmıştır.
-
 
 
 ---
+
 
